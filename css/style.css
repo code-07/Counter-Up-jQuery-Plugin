@@ -1,0 +1,11 @@
+/* Counter Up Section Start */
+.counter-section {
+	background-color: #434872;
+	padding: 80px 0;
+}
+.single-counter {
+	color: #fff;
+}
+.single-counter .counter {
+	font-size: 50px;
+}
